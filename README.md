@@ -38,4 +38,5 @@ https://is.gd/laisedital162022front.</p>
 
 <h1 align="center" id="preRequisitos">Pré-requisitos</h1>
 <h2 align="justufy">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</h2>
-<h4 align="justufy"<br><br>[Node.js](https://nodejs.org/en/)<br<br>Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).<br>
+<h4 align="justufy"<br><br>[Node.js](https://nodejs.org/en/)</h4>
+<h4 align="justufy">Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/))</h4>
