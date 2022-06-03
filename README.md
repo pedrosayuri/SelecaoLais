@@ -37,10 +37,15 @@ https://is.gd/laisedital162022front.</p>
 <p align="center">Em Desenvolvimento</p>
 
 <h1 align="center" id="preRequisitos">Pré-requisitos</h1>
-<h2 align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</h2>
-<h4 align="justify"<br><br>[Node.js](https://nodejs.org/en/)</h4>
-<h4 align="justify">Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/))</h4>
+<h2>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</h2>
+<h4<br><br>[Node.js](https://nodejs.org/en/)</h4>
+<h4>Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/))</h4>
 <h4>Faça a clonagem deste repositório</h4>
 <h4>Encontre o arquivo e arraste-o para terminal/cmd</h4>
 <h4>Instale as depenências utilizando o comando npm install</h4>
 <h4>Em seguida use o comando npm start para incializar o projeto</h4>
+
+<h1 aling="center" id="tecnologias">Tecnologias</h1>
+<br><br>
+<h4>- [Node.js](https://nodejs.org/en/)</h4>
+<h4>- [React](https://pt-br.reactjs.org/)</h4>
