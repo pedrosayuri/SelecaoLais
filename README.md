@@ -29,7 +29,7 @@ https://is.gd/laisedital162022front.</p>
  <a href="#Descricao">Descrição</a> •
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Status">Status do Projeto</a> •
- <a href="#preRequsitos">Tecnologias</a> • 
+ <a href="#preRequisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
 </p>
 
