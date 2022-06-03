@@ -31,6 +31,7 @@ https://is.gd/laisedital162022front.</p>
  <a href="#Status">Status do Projeto</a> •
  <a href="#preRequisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a> • 
 </p>
 
 <h1 align="center" id="Status">Status do Projeto</h1>
@@ -46,6 +47,9 @@ https://is.gd/laisedital162022front.</p>
 <h4>Em seguida use o comando npm start para incializar o projeto</h4>
 
 <h1 aling="center" id="tecnologias">Tecnologias</h1>
-<br><br>
 <h4>- [Node.js](https://nodejs.org/en/)</h4>
 <h4>- [React](https://pt-br.reactjs.org/)</h4>
+
+<h1 aling="center" id="autor">Autor</h1>
+<h4><a href="https://pedrosayuri.github.io/">Yuri Pedrosa de Oliveira</h4>
+<h4>Email: yuri.14psn@gmail.com</h4>
