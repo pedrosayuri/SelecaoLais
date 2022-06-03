@@ -31,7 +31,7 @@ https://is.gd/laisedital162022front.</p>
  <a href="#Status">Status do Projeto</a> •
  <a href="#preRequisitos">Pré-requisitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a> • 
+ <a href="#autor">Autor</a>
 </p>
 
 <h1 align="center" id="Status">Status do Projeto</h1>
