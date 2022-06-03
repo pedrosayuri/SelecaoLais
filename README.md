@@ -29,16 +29,13 @@ https://is.gd/laisedital162022front.</p>
  <a href="#Descricao">Descrição</a> •
  <a href="#Objetivo">Objetivo</a> •
  <a href="#Status">Status do Projeto</a> •
+ <a href="#preRequsitos">Tecnologias</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
 </p>
 
 <h1 align="center" id="Status">Status do Projeto</h1>
 <h4 align="center">Em Desenvolvimento</h4>
 
-### Features
-
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
-
+<h1 align="center" id="preRequisitos">Pré-requisitos</h1>
+<h4 align="center">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Node.js](https://nodejs.org/en/) e um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
