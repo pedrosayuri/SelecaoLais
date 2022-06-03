@@ -14,8 +14,9 @@ tempo real do progresso da campanha de vacinação contra covid-19, com indicado
 relacionados à vacinação da população geral, população adulta +18, adolescentes 12 a
 17 anos e crianças de 5 a 11 anos, orientando o processo em proporcionar uma melhor
 experiência ao cidadão, bem como identificar os locais disponíveis em seu território para
-realização de teste de detecção da covid-19: RT-PCR ou Antígeno ou RT-LAMP.
-Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+realização de teste de detecção da covid-19: RT-PCR ou Antígeno ou RT-LAMP.</p>
+
+<p align="justify" id="Objetivo">Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
 de exames para detecção da covid-19 e uma página pública com dados da campanha de
 vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
 vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
@@ -24,9 +25,62 @@ Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seg
 endereço:
 https://is.gd/laisedital162022front.</p>
 
+
+
+<p align="justify" >Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+de exames para detecção da covid-19 e uma página pública com dados da campanha de
+vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
+vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
+faixa etária da campanha de vacinação (Geral, +18, +12 e +5) por município do Rio
+Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seguinte
+endereço:
+https://is.gd/laisedital162022front.</p>
+<p align="justify" >Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+de exames para detecção da covid-19 e uma página pública com dados da campanha de
+vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
+vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
+faixa etária da campanha de vacinação (Geral, +18, +12 e +5) por município do Rio
+Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seguinte
+endereço:
+https://is.gd/laisedital162022front.</p>
+<p align="justify">Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+de exames para detecção da covid-19 e uma página pública com dados da campanha de
+vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
+vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
+faixa etária da campanha de vacinação (Geral, +18, +12 e +5) por município do Rio
+Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seguinte
+endereço:
+https://is.gd/laisedital162022front.</p>
+<p align="justify" >Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+de exames para detecção da covid-19 e uma página pública com dados da campanha de
+vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
+vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
+faixa etária da campanha de vacinação (Geral, +18, +12 e +5) por município do Rio
+Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seguinte
+endereço:
+https://is.gd/laisedital162022front.</p>
+<p align="justify" >Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+de exames para detecção da covid-19 e uma página pública com dados da campanha de
+vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
+vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
+faixa etária da campanha de vacinação (Geral, +18, +12 e +5) por município do Rio
+Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seguinte
+endereço:
+https://is.gd/laisedital162022front.</p>
+<p align="justify" >Diante disso, o projeto tem como objetivo propor uma solução para agendamento online
+de exames para detecção da covid-19 e uma página pública com dados da campanha de
+vacinação (doses recebidas, doses aplicadas, vacinados com D1, vacinados com D2,
+vacinados com D3, doses em atraso D2, doses em atraso D3 e vacinados no dia) por
+faixa etária da campanha de vacinação (Geral, +18, +12 e +5) por município do Rio
+Grande do Norte, conforme protótipo de média fidelidade disponibilizado no seguinte
+endereço:
+https://is.gd/laisedital162022front.</p>
+
+
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
  <a href="#Descricao">Objetivo</a> •
+ <a href="#Objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
+
