@@ -2,7 +2,7 @@
 INTELIGENTE ORIENTADA AO FORTALECIMENTO DAS REDES DE ATENÇÃO PARA
 RESPOSTA RÁPIDA À SÍFILIS</h1>
 
-<p align="center">A covid-19 é a maior pandemia da história recente da humanidade causada pelo novo
+<p align="justify">A covid-19 é a maior pandemia da história recente da humanidade causada pelo novo
 coronavírus (SARS-CoV-2). Trata-se de uma infecção respiratória aguda potencialmente
 grave e de distribuição global, que possui elevada transmissibilidade entre as pessoas
 por meio de gotículas respiratórias ou contato com objetos e superfícies contaminadas.
