@@ -35,3 +35,10 @@ https://is.gd/laisedital162022front.</p>
 <h1 align="center" id="Status">Status do Projeto</h1>
 <h4 align="center">Em Desenvolvimento</h4>
 
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+
