@@ -45,10 +45,10 @@ https://is.gd/laisedital162022front.</p>
 <h4>Instale as depenências utilizando o comando npm install</h4>
 <h4>Em seguida use o comando npm start para incializar o projeto</h4>
 
-<h1 aling="center" id="tecnologias">Tecnologias</h1>
+<h1 align="center" id="tecnologias">Tecnologias</h1>
 <h4>- [Node.js](https://nodejs.org/en/)</h4>
 <h4>- [React](https://pt-br.reactjs.org/)</h4>
 
-<h1 aling="center" id="autor">Autor</h1>
+<h1 align="center" id="autor">Autor</h1>
 <h4><a href="https://pedrosayuri.github.io/">Yuri Pedrosa de Oliveira</h4>
 <h4>Email: yuri.14psn@gmail.com</h4>
